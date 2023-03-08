@@ -3,7 +3,7 @@
 Overview
 --------
 
-PyTorch implementation of our paper "Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder.
+PyTorch implementation of our paper "Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder" accepted by SIGIR 2022.
 
 
 Dependencies
